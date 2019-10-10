@@ -255,6 +255,15 @@ When I were to fit top and bottom parts together I discovered I had to chip off 
 
 ***
 
+And here it is among friends, the two at the back are "lightweight" versions and still going strong...
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic55.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic55.jpg" width="504" height="378">
+</a>
+
+
+***
+
 ### 3d-printing
 
 More to come here...
