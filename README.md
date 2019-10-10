@@ -355,7 +355,7 @@ Using similar settings here but printing with a brim to make it stay more flat. 
 
 ***
 
-Using a hacksaw and a cutter to trim the design of the vent.
+Using a hacksaw and a wire cutter to trim the design of the vent.
 
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic78.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic78.jpg" width="210" height="160">
