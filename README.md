@@ -37,7 +37,7 @@ Cabling is taken from an old dead Amiga 600 PSU. Also the power switch is reused
 
 Attention: Read the <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a> before doing any electrical work yourself.
 
-First fit the PSU into the case and secure it with three screws. Leave the top left screw undone for now, the shielding wire will be connected to this screw hole as it shares to common GND shielding. I didn't have screws with correct height (~5mm) so I used a hacksaw on some longer ones...
+First fit the PSU into the case and secure it with three screws. Leave the top left screw undone for now, the shielding wire will be connected to this screw hole as it shares to common GND shielding. I didn't have screws with correct height (~5-6mm) so I used a hacksaw on some longer ones...
 
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic7.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic7.jpg" width="152" height="202">
@@ -71,5 +71,64 @@ First fit the PSU into the case and secure it with three screws. Leave the top l
 </a>
 
 ***
+
+Starting with the Power cord side, measure, cut, strip and prepare the wires for crimping...
+
+***
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic17.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic17.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic18.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic18.jpg" width="152" height="202">
+</a>
+<br />
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic19.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic19.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg" width="152" height="202">
+</a>
+
+***
+
+Now crimp and fit the wires into the connection socket and housing. Make sure to push all the way down until it clicks into position...
+
+***
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic17.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic17.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic18.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic18.jpg" width="152" height="202">
+</a>
+<br />
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic19.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic19.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg" width="202" height="152">
+</a>
+
+***
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic21.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic21.jpg" width="152" height="202">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic22.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic22.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic23.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic23.jpg" width="202" height="152">
+</a>
+<br />
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic24.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic24.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic25.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic25.jpg" width="152" height="202">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic25.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic25.jpg" width="202" height="152">
+</a>
 
 More to come here...
