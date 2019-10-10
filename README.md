@@ -145,4 +145,23 @@ DC:
 
 ***
 
+### Dummy load
+
+The Amiga almost exclusively use the +5V rail so no problem there but on +12V we might need to put a dummy load on. Checking the specs we see that ECM60UT31 has a minimum current requirement of 0.1A on the +12V output. Let's calculate Ohm and Wattage to pick a suitable resistor. This can easily be done manually or by using a online-calculator like this one: https://www.rapidtables.com/calc/electric/watt-volt-amp-calculator.html
+
+We see that using a 100 Ohm resistor with a tolerance of 3 watt is a perfect fit here giving us a 120 mA dummy load well under the tolerance level of the resistor. The energy will dissipate as heat.
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic32.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic32.jpg" width="504" height="378">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic33.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic33.jpg" width="305" height="210">
+</a>
+
+***
+
+Applying theory in practice:
+
+Checking the Currents (Amps)...Shows 118mA, very close to what we excpected! I put some shrink tube on the resistors legs for safety reasons.
+
 More to come here...
