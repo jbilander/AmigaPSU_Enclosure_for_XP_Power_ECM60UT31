@@ -207,7 +207,7 @@ We extend the shielding with a yellow wire, crimping and some shrink tube over i
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic42.jpg" width="152" height="202">
 </a>
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic43.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic43.jpg" width="152" height="202">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic43.jpg" width="378" height="504">
 </a>
 
 
