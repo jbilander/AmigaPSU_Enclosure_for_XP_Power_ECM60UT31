@@ -6,21 +6,21 @@ A 3d-printable Amiga PSU enclosure for the XP Power ECM60UT31 PSU
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic1.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic1.jpg" width="207" height="195">
 </a>
-<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic2.jpg">
-<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic2.jpg" width="207" height="195">
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic2.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic2.jpg" width="207" height="195">
 </a>
-<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic3.jpg">
-<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic3.jpg" width="207" height="195">
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic3.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic3.jpg" width="207" height="195">
 </a>
 <br />
-<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic4.jpg">
-<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic4.jpg" width="202" height="152">
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic4.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic4.jpg" width="202" height="152">
 </a>
-<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic5.jpg">
-<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic5.jpg" width="202" height="152">
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic5.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic5.jpg" width="202" height="152">
 </a>
-<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic6.jpg">
-<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic6.jpg" width="202" height="152">
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic6.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic6.jpg" width="202" height="152">
 </a>
 
 ***
@@ -31,8 +31,8 @@ Cabling is taken from an old dead Amiga 600 PSU. Also the power switch is reused
 
 Attention: Read the <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a> before doing any electrical work yourself.
 
-<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic7.jpg">
-<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic7.jpg" width="202" height="152">
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic7.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic7.jpg" width="152" height="202">
 </a>
 
 ***
