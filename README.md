@@ -266,4 +266,52 @@ And here it is among friends, the two at the back are "lightweight" versions and
 
 ### 3d-printing
 
+I printed in ABS-plastic since it feels a lot more safe dealing with power and heat compared to PLA.
+
+### Printing the top part.
+
+Settings: Nozzle 250° C, Bed 120° C, Infill 60%. Printing time: 9 hours! with Ender 3-Pro and using the hairspray trick to make the material stick to the polypropylen bed.
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic56.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic56.jpg" width="519" height="326">
+</a>
+<br />
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic57.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic57.jpg" width="210" height="160">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic58.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic58.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic59.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic59.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic60.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic60.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic61.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic61.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic62.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic62.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic63.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic63.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic64.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic64.jpg" width="202" height="152">
+</a>
+
+***
+
+In the middle of the print the corners started to come off, I didn't print with a brim but the corner creep only improved on the design a little :)
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic65.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic65.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic66.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic66.jpg" width="202" height="152">
+</a>
+
+***
+
 More to come here...
