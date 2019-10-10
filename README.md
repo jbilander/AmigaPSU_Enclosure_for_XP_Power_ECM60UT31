@@ -213,7 +213,7 @@ We extend the shielding with a yellow wire, crimping and some shrink tube over i
 
 ***
 
-With everything in place now plug in the Power cord and turn the power switch on. Now, verify the square connector is correctly connected.
+With everything in place now plug in the Power cord and turn the power switch on. Now, verify the square connector is correctly connected, and also check for continuity for the shielding.
 
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic44.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic44.jpg" width="210" height="160">
@@ -229,5 +229,32 @@ With everything in place now plug in the Power cord and turn the power switch on
 </a>
  
 ***
+
+Putting it together
+
+When I were to fit top and bottom parts together I discovered I had to chip off some material on the top part and use the rasp to make the power switch hole a little higher. I took the dimensions from the <a href="https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B">A500 PSU model </a> and the A600 cable is evidently a little different in size compared to that one. Anyway, no big deal.
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic48.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic48.jpg" width="210" height="160">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic49.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic49.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic50.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic50.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic51.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic51.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic52.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic52.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic53.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic53.jpg" width="202" height="152">
+</a>
+
+***
+
+### 3d-printing
 
 More to come here...
