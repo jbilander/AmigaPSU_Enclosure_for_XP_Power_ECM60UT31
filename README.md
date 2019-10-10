@@ -87,28 +87,12 @@ Starting with the Power cord side, measure, cut, strip and prepare the wires for
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic19.jpg" width="202" height="152">
 </a>
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg" width="152" height="202">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg" width="202" height="152">
 </a>
 
 ***
 
 Now crimp and fit the wires into the connection socket and housing. Make sure to push all the way down until it clicks into position...
-
-***
-
-<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic17.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic17.jpg" width="202" height="152">
-</a>
-<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic18.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic18.jpg" width="152" height="202">
-</a>
-<br />
-<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic19.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic19.jpg" width="202" height="152">
-</a>
-<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic20.jpg" width="202" height="152">
-</a>
 
 ***
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic21.jpg">
@@ -127,8 +111,8 @@ Now crimp and fit the wires into the connection socket and housing. Make sure to
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic25.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic25.jpg" width="152" height="202">
 </a>
-<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic25.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic25.jpg" width="202" height="152">
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic26.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic26.jpg" width="202" height="152">
 </a>
 
 More to come here...
