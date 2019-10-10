@@ -389,7 +389,7 @@ Using a hacksaw and a cutter to trim the design of the vent.
 </a>
 <br />
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic88.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic88.jpg" width="519" height="326">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic88.jpg" width="504" height="378">
 </a>
 
 ***
@@ -408,5 +408,5 @@ I got a small crack in the case body during cooling, I used some superglue to se
 The final result once again:
 <br />
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic5.jpg">
-<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic5.jpg" width="519" height="326">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic5.jpg" width="504" height="378">
 </a>
