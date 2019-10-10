@@ -149,7 +149,7 @@ DC:
 
 The Amiga almost exclusively use the +5V rail so no problem there but on +12V we might need to put a dummy load on. Checking the specs we see that ECM60UT31 has a minimum current requirement of 0.1A on the +12V output. Let's calculate Ohm and Wattage to pick a suitable resistor. This can easily be done manually or by using a online-calculator like this one: https://www.rapidtables.com/calc/electric/watt-volt-amp-calculator.html
 
-We see that using a 100 Ohm resistor with a tolerance of 3 watt is a perfect fit here giving us a 120 mA dummy load well under the tolerance level of the resistor. The energy will dissipate as heat.
+We see that using a 100 Ohm resistor with a tolerance of 3 watt is a perfect fit here giving us a 120 mA dummy load 1.44W well under the tolerance level of the resistor. The energy will dissipate as heat.
 
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic32.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic32.jpg" width="504" height="378">
@@ -162,6 +162,72 @@ We see that using a 100 Ohm resistor with a tolerance of 3 watt is a perfect fit
 
 Applying theory in practice:
 
-Checking the Currents (Amps)...Shows 118mA, very close to what we excpected! I put some shrink tube on the resistors legs for safety reasons.
+Checking the ampere's with a multimeter...shows 118.8mA, very close to what was excpected (120mA)! 
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic34.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic34.jpg" width="504" height="378">
+</a>
+
+***
+
+Now, let's do the cabling for the other side of the PSU, but first switch off and disconnect power cord from outlet.
+
+measure, cut, strip and prepare the wires for crimping.
+
+* Yellow = GND/Shield/Earth
+* White = -12V
+* Brown = +12V
+* Red = +5V
+* Black = 0V/Signal GND
+
+We extend the shielding with a yellow wire, crimping and some shrink tube over it. I put some shrink tube on the resistors legs for safety reasons. Now fit the yellow shielding wire around the last screw and screw it in place and plug the connector in.
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic35.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic35.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic36.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic36.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic37.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic37.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic38.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic38.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic39.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic39.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic40.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic40.jpg" width="152" height="202">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic41.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic41.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic42.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic42.jpg" width="152" height="202">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic43.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic43.jpg" width="152" height="202">
+</a>
+
+
+***
+
+With everything in place now plug in the Power cord and turn the power switch on. Now, verify the square connector is correctly connected.
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic44.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic44.jpg" width="210" height="160">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic45.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic45.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic46.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic46.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic47.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic47.jpg" width="202" height="152">
+</a>
+ 
+***
 
 More to come here...
