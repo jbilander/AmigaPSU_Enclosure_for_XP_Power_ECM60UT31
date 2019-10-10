@@ -76,6 +76,10 @@ First, fit the PSU into the case and secure it with three screws. Leave the top 
 
 Starting with the Power cord side, measure, cut, strip and prepare the wires for crimping...
 
+* Brown: Line
+* Blue: Neutral
+* Green/Yellow: GND
+
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic17.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic17.jpg" width="202" height="152">
 </a>
@@ -118,16 +122,20 @@ Now crimp and fit the wires into the connection socket and housing. Make sure to
 
 Now we can plug it in and check voltages
 
+AC:
+<br />
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic27.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic27.jpg" width="202" height="152">
 </a>
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic28.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic28.jpg" width="202" height="152">
 </a>
+<br />
+DC:
+<br />
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic29.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic29.jpg" width="202" height="152">
 </a>
-<br />
 <a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic30.jpg">
 <img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic30.jpg" width="202" height="152">
 </a>
