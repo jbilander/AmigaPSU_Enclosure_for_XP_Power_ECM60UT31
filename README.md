@@ -314,4 +314,99 @@ In the middle of the print the corners started to come off, I didn't print with 
 
 ***
 
-More to come here...
+### Printing the bottom part
+
+Using similar settings here but printing with a brim to make it stay more flat. 9 hours for this print to finish. I used tape on the brim fringe to make it stick to the bed better.
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic67.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic67.jpg" width="519" height="326">
+</a>
+<br />
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic68.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic68.jpg" width="210" height="160">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic69.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic69.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic70.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic70.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic71.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic71.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic72.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic72.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic73.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic73.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic74.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic74.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic75.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic75.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic76.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic76.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic77.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic77.jpg" width="202" height="152">
+</a>
+
+***
+
+Using a hacksaw and a cutter to trim the design of the vent.
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic78.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic78.jpg" width="210" height="160">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic79.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic79.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic80.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic80.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic81.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic81.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic82.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic82.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic83.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic83.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic84.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic84.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic85.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic85.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic86.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic86.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic87.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic87.jpg" width="202" height="152">
+</a>
+<br />
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic88.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic88.jpg" width="519" height="326">
+</a>
+
+***
+
+I got a small crack in the case body during cooling, I used some superglue to seal it...
+
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic89.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic89.jpg" width="202" height="152">
+</a>
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic90.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic90.jpg" width="202" height="152">
+</a>
+
+***
+
+The final result once again:
+<br />
+<a href="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic5.jpg">
+<img src="images/AmigaPSU_Enclosure_for_XP_Power_ECM60UT31_pic5.jpg" width="519" height="326">
+</a>
